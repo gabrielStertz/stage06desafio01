@@ -1,0 +1,23 @@
+{
+  "name": "desafio_01",
+  "version": "1.0.0",
+  "description": "Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielStertz/stage06desafio01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielStertz/stage06desafio01/issues"
+  },
+  "homepage": "https://github.com/gabrielStertz/stage06desafio01#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
